@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome! This repository contains code, models, and experiment resources developed by [Your Name] (PhD student, MIT Brain and Cognitive Sciences), working in Josh McDermott’s Lab for Computational Audition.
+Welcome! This repository contains code, models, and experiment resources developed by Preston Hess (PhD student, MIT Brain and Cognitive Sciences), working in Josh McDermott’s Lab for Computational Audition.
 
 ## Research Focus
 
