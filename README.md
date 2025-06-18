@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome! This repository contains code, models, and experiment resources developed by Preston Hess (PhD student, MIT Brain and Cognitive Sciences), working in Josh McDermott’s Lab for Computational Audition.
+Welcome! My repositories contain code, models, and experiment resources developed by Preston Hess (PhD student, MIT Brain and Cognitive Sciences), working in Josh McDermott’s Lab for Computational Audition.
 
 ## Research Focus
 
@@ -27,7 +27,6 @@ Josh McDermott’s Lab for Computational Audition
 
 ---
 
-Feel free to use or adapt this template for your work!
 
 <!--
 **phess2/phess2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
